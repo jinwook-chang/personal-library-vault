@@ -2,8 +2,6 @@
 type: concept
 title: "{{concept}}"
 aliases: []
-status: draft
-confidence: medium
 last_reviewed: 2026-04-28
 ---
 

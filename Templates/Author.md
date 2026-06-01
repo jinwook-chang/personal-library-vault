@@ -2,8 +2,6 @@
 type: author
 title: "{{name}}"
 aliases: []
-status: draft
-confidence: medium
 last_reviewed: 2026-04-28
 birth: ""
 death: ""

@@ -2,8 +2,6 @@
 type: relation
 title: "{{relation_title}}"
 aliases: []
-status: proposed
-confidence: weak
 last_reviewed: 2026-04-28
 relation_origin: llm_suggested
 relation_kind: ""
